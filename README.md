@@ -18,11 +18,11 @@ When asked from the command line, pick a random lower case letter from 'a-z'. Af
 * Javascript
 * Node.js
 * NPM Packages
- - Inquirer.js For Interactive Prompting
+* Inquirer.js For Interactive Prompting
 * Constructor Functions
 * Object-Oriented Design
 * Asynchronous Programming
 
 🍀 Good Luck! 🍀
 
-# CL Constructor Word Guess Game - Project Made by Muhammad Ali.
+# Constructor Word Guess Game - Made by Muhammad Ali.
