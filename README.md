@@ -1,10 +1,10 @@
-## Constructor Word Guess Game - (Advanced Javascript Command Line Word Guess Game)
+## Constructor Word Guess Game (Advanced Javascript Command Line Word Guess Game)
 
 Constructor Word Guess Game is a command line node app that utilizes JavaScript Constructors, NPM Inquirer.js Packages, Objects, and Node.js.
 
 ## Getting Started:
 Download the "images" folder to visualize each command.
-This will allow you to better see how Word Guess Game works with each given command.
+This will allow you to better see how the game works with each given command.
 index.js - This file contains the logic for the course of the game, which depends on Word.js and letter.js.
 
 # Actions:
@@ -25,4 +25,4 @@ When asked from the command line, pick a random lower case letter from 'a-z'. Af
 
 🍀 Good Luck! 🍀
 
-# CL Constructor Word Guess Game - Project Made by: Muhammad Ali.
+# CL Constructor Word Guess Game - Project Made by Muhammad Ali.
