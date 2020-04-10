@@ -23,6 +23,6 @@ When asked from the command line, pick a random lower case letter from 'a-z'. Af
 * Object-Oriented Design
 * Asynchronous Programming
 
-🍀 Good Luck! 🍀
+   🍀 Good Luck! 🍀
 
-# Constructor Word Guess Game - Made by Muhammad Ali.
+# A Constructor Word Guess Game - Made by Muhammad Ali.
