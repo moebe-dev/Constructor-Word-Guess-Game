@@ -1,4 +1,4 @@
-function letter(value) {
+function Letter(value) {
     this.letter = value;
     this.guessed = false;
 
@@ -13,11 +13,13 @@ function letter(value) {
                 return this.letter;
             }
         }
-    }
-};
+    };
 
-this.guessed = function(guess) {
-    if(guess === this.letter) {
-        this
-    }
+    this.guess = function (guess) {
+        if (guess === this.letter) {
+            this.guessed = true;
+        }
+    };
 }
+
+module.exports = Letter;
